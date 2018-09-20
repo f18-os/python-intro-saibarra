@@ -1,5 +1,0 @@
-FileNotFoundError from os-labs/p3-exec.py is an error not 
-found in python 2.7 thus I require python 3 or above. 
-
-the correction for "except FineNotFoundError:" in python 2.7 is 
-"EnvironmentError as e:" and it works just fine now
